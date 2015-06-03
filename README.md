@@ -16,10 +16,10 @@ $ npm install && bower install
 $ gulp serve
 ```
  -->
- ##Internet Of Things
+ # Internet Of Things
 
  > Membahas materi tentang Internet Of Things
 
- ##Bagi anggota harap kontribusinya untuk mengedit file ini
+ ## Bagi anggota harap kontribusinya untuk mengedit file ini
 
  Note : Usahakan buat branching dulu untuk masing - masing user. File Readme ini nantinya di edit ketika file telah selesai.
