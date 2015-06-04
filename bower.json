@@ -1,5 +1,5 @@
 {
-  "name": "presentation-iot",
+  "name": "presentation-hello-world",
   "version": "0.0.0",
   "dependencies": {
     "prism": "gh-pages"

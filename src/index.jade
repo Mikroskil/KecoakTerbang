@@ -3,7 +3,7 @@ html
   head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-    title IoT
+    title Hello World
 
     link(rel='stylesheet', type='text/css', href='build/build.css')
 
@@ -12,7 +12,7 @@ html
     article
 
       section
-        h1 IoT
+        h1 Hello World
 
       section
         h2 Keyboard Interaction
@@ -45,6 +45,11 @@ html
               touch(),
               bullets('li, .bullet')
             ]);
+
+      section(data-bespoke-hash='named-route')
+        h2 Named Route
+        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-hash">bespoke-hash</a>
+        p Look up! This route has been named with a <em>'data-bespoke-hash'</em> attribute.
 
       section.emphatic-text(data-bespoke-backdrop='emphatic')
         h2 Emphatic Slide!

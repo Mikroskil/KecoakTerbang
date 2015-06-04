@@ -1,11 +1,13 @@
 {
-  "name": "presentation-iot",
+  "name": "presentation-hello-world",
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
     "bespoke": "^1.0.0",
     "bespoke-backdrop": "^1.0.0",
     "bespoke-bullets": "^1.0.0",
+    "bespoke-forms": "^1.0.0",
+    "bespoke-hash": "^1.0.0",
     "bespoke-keys": "^1.0.0",
     "bespoke-progress": "^1.0.0",
     "bespoke-scale": "^1.0.0",

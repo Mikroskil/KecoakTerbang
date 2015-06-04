@@ -6,7 +6,9 @@ var bespoke = require('bespoke'),
   bullets = require('bespoke-bullets'),
   backdrop = require('bespoke-backdrop'),
   scale = require('bespoke-scale'),
-  progress = require('bespoke-progress');
+  hash = require('bespoke-hash'),
+  progress = require('bespoke-progress'),
+  forms = require('bespoke-forms');
 
 // Bespoke.js
 bespoke.from('article', [
@@ -16,7 +18,9 @@ bespoke.from('article', [
   bullets('li, .bullet'),
   backdrop(),
   scale(),
-  progress()
+  hash(),
+  progress(),
+  forms()
 ]);
 
 // Prism syntax highlighting
