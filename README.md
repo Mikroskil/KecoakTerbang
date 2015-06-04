@@ -27,7 +27,7 @@ $ gulp serve
 # Penjadwalan Scrum Master
   Scrum master diganti secara bergilir setiap 5 hari sekali. Dimulai dari Andre Pratama, Michael dan Fazrina ulfa. Adapun pembagian materi adalah sebagai berikut :
  <ul>
-	<li>Introduce of "<b><i>Internet Of Things</i></b>" oleh Fazrina Ulfa</li>
-	<li><b><i>Internet Of Things Lanjutan</i> oleh Michael</i></b></li>
-	<li><b><i>Aspek Pendukung Internet Of Things</i> oleh Andre Pratama</b>
+	<li><b>Introduce of "<i>Internet Of Things</i></b>" oleh Fazrina Ulfa</li>
+	<li><b><i>Internet Of Things Lanjutan</i></b> oleh Michael</li>
+	<li><b><i>Aspek Pendukung Internet Of Things</i></b> oleh Andre Pratama
  </ul>
