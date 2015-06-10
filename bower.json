@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "presentation-internet-of-things",
+=======
+  "name": "presentation-hello-world",
+>>>>>>> a9a54f0377a52d42be37582edff3ade4cdbb4b87
   "version": "0.0.0",
   "dependencies": {
     "prism": "gh-pages"
