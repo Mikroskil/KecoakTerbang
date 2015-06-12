@@ -1,9 +1,9 @@
 {
-<<<<<<< HEAD
+
   "name": "presentation-internet-of-things",
-=======
+
   "name": "presentation-hello-world",
->>>>>>> a9a54f0377a52d42be37582edff3ade4cdbb4b87
+
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
@@ -11,10 +11,9 @@
     "bespoke-backdrop": "^1.0.0",
     "bespoke-bullets": "^1.0.0",
     "bespoke-forms": "^1.0.0",
-<<<<<<< HEAD
-=======
+
     "bespoke-hash": "^1.0.0",
->>>>>>> a9a54f0377a52d42be37582edff3ade4cdbb4b87
+
     "bespoke-keys": "^1.0.0",
     "bespoke-progress": "^1.0.0",
     "bespoke-scale": "^1.0.0",
