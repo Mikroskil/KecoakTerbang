@@ -1,5 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "presentation-hello-world",
+=======
+
+  "name": "presentation-internet-of-things",
+
+  "name": "presentation-hello-world",
+
+>>>>>>> 04fa2fa43e17e7c30d70087f30cb0a8f98172497
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
@@ -7,6 +15,12 @@
     "bespoke-backdrop": "^1.0.0",
     "bespoke-bullets": "^1.0.0",
     "bespoke-forms": "^1.0.0",
+<<<<<<< HEAD
+=======
+
+    "bespoke-hash": "^1.0.0",
+
+>>>>>>> 04fa2fa43e17e7c30d70087f30cb0a8f98172497
     "bespoke-keys": "^1.0.0",
     "bespoke-progress": "^1.0.0",
     "bespoke-scale": "^1.0.0",
@@ -33,4 +47,8 @@
   "engines": {
     "node": ">=0.10.0"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 04fa2fa43e17e7c30d70087f30cb0a8f98172497
